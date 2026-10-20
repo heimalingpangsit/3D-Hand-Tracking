@@ -43,8 +43,8 @@ Since all dependencies are loaded via CDN, no complex build steps or node module
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/heimalingpangsit/3d-hand-tracking.git](https://github.com/heimalingpangsit/3d-hand-tracking.git)
-   cd 3d-hand-tracking
+   git clone [https://github.com/heimalingpangsit/3D-Hand-Tracking.git](https://github.com/heimalingpangsit/3D-Hand-Tracking.git)
+   cd 3D-Hand-Tracking
 
     ```
 
